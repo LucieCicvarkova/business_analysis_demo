@@ -1,15 +1,12 @@
-# Evidence a rezervace zdravotnických přístrojů
+# Medical Device Inventory and Loan Management – Business Analysis Demo
 
-Stručná analytická prezentace pracovního návrhu nemocniční evidence a rezervací zdravotnických přístrojů.
+A practice business analysis exercise based on a fictional hospital scenario, demonstrating how user requirements can be translated into a functional specification and UI prototype.
 
-- **Úvodní prezentace:** `index.html`
-- **Interaktivní prototyp:** `prototype/index.html`
+This is a sample solution, not a validated or approved specification.
 
-## Publikování na GitHub Pages
+The project includes:
+- User stories and acceptance criteria
+- MoSCoW prioritization and open questions
+- Proposed workflow and interactive HTML prototype
 
-V repozitáři zvolte **Settings → Pages → Deploy from a branch → main → /(root)**. Odkaz na publikovaný web se objeví v nastavení Pages.
-
-Jde o pracovní analytickou ukázku, nikoli o odsouhlasenou specifikaci pro vývoj. Prototyp používá fiktivní data.
-
-
-Podrobná analytická verze: `analyza/index.html`. Verze Word: `docs/Funkcni_navrh_podrobny.docx`.
+View the project on GitHub Pages: `https://luciecicvarkova.github.io/business_analysis_demo/`
