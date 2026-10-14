@@ -12,4 +12,4 @@ V repozitáři zvolte **Settings → Pages → Deploy from a branch → main →
 Jde o pracovní analytickou ukázku, nikoli o odsouhlasenou specifikaci pro vývoj. Prototyp používá fiktivní data.
 
 
-Podrobná analytická verze: `analyza/index.html`. Upravený Word: `docs/Funkcni_navrh_upraveny.docx`.
+Podrobná analytická verze: `analyza/index.html`. Verze Word: `docs/Funkcni_navrh_podrobny.docx`.
