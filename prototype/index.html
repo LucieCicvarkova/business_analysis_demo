@@ -46,4 +46,7 @@ let toastTimer;$('bookingForm').addEventListener('submit',e=>{e.preventDefault()
 function notify(message){clearTimeout(toastTimer);$('toast').textContent=message;$('toast').hidden=false;toastTimer=setTimeout(()=>$('toast').hidden=true,8500)}render();
 })();
 </script>
+  <!-- Cloudflare Web Analytics -->
+  <script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1fe843a0e913489f9711168b97ec31b5"}'></script>
+  <!-- End Cloudflare Web Analytics -->
 </body></html>
